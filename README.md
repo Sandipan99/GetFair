@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSandipan99%2FGetFair%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # GetFair: Generalized Fairness Tuning of Classification Models
 
 > GetFair: Generalized Fairness Tuning of Classification Models. Sandipan Sikdar, Florian Lemmerich and Markus Strohmaier accepted at [ACM FAccT 2022](https://facctconference.org/2022/index.html)
