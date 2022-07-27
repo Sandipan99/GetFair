@@ -7,7 +7,13 @@
 ***Please cite our paper in any published work that uses any of these resources.***
 
 ~~~
-Coming Soon
+@inproceedings{sikdar2022getfair,
+  title={GetFair: Generalized Fairness Tuning of Classification Models},
+  author={Sikdar, Sandipan and Lemmerich, Florian and Strohmaier, Markus},
+  booktitle={2022 ACM Conference on Fairness, Accountability, and Transparency},
+  pages={289--299},
+  year={2022}
+}
 ~~~
 
 ## Abstract
