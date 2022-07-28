@@ -62,18 +62,18 @@ Bank (7)
 "eoppr" - equal opportunity
 "eodd" - equalized odds
 ```
+```
+<classifier>
+"log-reg" - logistic regression (default)
+"lin-svm" - linear SVM
+"mlp" - neural network
+```
 An execution instance -
 ```
 python main.py -d 1 -f stpr -t 1 -c log-reg
 ```
 ```
 tuning rate - any floating point value between (0 and 1] (default-1)
-```
-```
-<classifier>
-"log-reg" - logistic regression (default)
-"lin-svm" - linear SVM
-"mlp" - neural network
 ```
 To tune for both statistical parity and equal opportunity execute - 
 ```
